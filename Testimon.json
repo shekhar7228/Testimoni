@@ -3,14 +3,7 @@
     "id": "cdc566494432e8d6",
     "username": "1",
     "password": "2",
-    "expiresAt": "2025-01-31",
-    "allowOffline": true
-  },
-  {
-    "id": "cdc566494432e8d6",
-    "username": "a",
-    "password": "b",
-    "expiresAt": "2025-05-30",
+    "expiresAt": "2025-11-31",
     "allowOffline": true
   },
   {
