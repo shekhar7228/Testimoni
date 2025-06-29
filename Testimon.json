@@ -6,6 +6,13 @@
     "expiresAt": "2026-11-31",
     "allowOffline": true
   },
+    {
+    "id": "85ffbad7a8d6b6a0",
+    "username": "1",
+    "password": "2",
+    "expiresAt": "2026-11-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
