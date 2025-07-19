@@ -13,34 +13,6 @@
     "expiresAt": "2025-07-10",
     "allowOffline": true
   },
-    {
-    "id": "583b6878314856e3",
-    "username": "33",
-    "password": "33",
-    "expiresAt": "2025-07-20",
-    "allowOffline": true
-  },
-    {
-    "id": "9ddf1bbf9ea79ab1",
-    "username": "2",
-    "password": "2",
-    "expiresAt": "2026-11-31",
-    "allowOffline": true
-  },
-  {
-    "id": "29acb1614bf06374",
-    "username": "2",
-    "password": "2",
-    "expiresAt": "2026-11-31",
-    "allowOffline": true
-  },
-    {
-    "id": "c37d1ffca679d6bf",
-    "username": "AA",
-    "password": "CC",
-    "expiresAt": "2025-07-15",
-    "allowOffline": true
-  },  
   {
     "id": "android_device_id_2",
     "username": "user2",
