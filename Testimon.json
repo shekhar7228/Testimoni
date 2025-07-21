@@ -14,6 +14,20 @@
     "allowOffline": true
   },
   {
+    "id": "cdc566494432e8d6",
+    "username": "0",
+    "password": "0",
+    "expiresAt": "2025-07-28",
+    "allowOffline": true
+  },
+  {
+    "id": "xxxxx",
+    "username": "x",
+    "password": "x",
+    "expiresAt": "2099-07-28",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
