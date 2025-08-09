@@ -20,32 +20,11 @@
     "expiresAt": "2025-08-19",
     "allowOffline": true
   },
- {
-    "id": "1cb1f32f29fb1cdb",
-    "username": "00000",
-    "password": "00000",
-    "expiresAt": "2029-08-23",
-    "allowOffline": true
-  },
-    {
-    "id": "93175ad7f3840639",
-    "username": "0000",
-    "password": "0000",
-    "expiresAt": "2029-08-23",
-    "allowOffline": true
-  },
   {
     "id": "8a63ec6e09519fef",
     "username": "3333",
     "password": "3333",
     "expiresAt": "2025-08-23",
-    "allowOffline": true
-  },
- {
-    "id": "c1d0dcbca7f5f089",
-    "username": "333",
-    "password": "333",
-    "expiresAt": "2025-08-16",
     "allowOffline": true
   },
  {
@@ -55,104 +34,7 @@
     "expiresAt": "2025-09-06",
     "allowOffline": true
   },
-   {
-    "id": "e58f93c225b7bb50",
-    "username": "99",
-    "password": "99",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-   {
-    "id": "6878740bf97c6303",
-    "username": "xxxx",
-    "password": "xxxx",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-     {
-    "id": "55bc8269e97d1d6f",
-    "username": "22",
-    "password": "22",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-     {
-    "id": "fff644af16fb9ca8",
-    "username": "2",
-    "password": "2",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-    {
-    "id": "1cf97ebb10ccf15a",
-    "username": "1111",
-    "password": "1111",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-  {
-    "id": "c559fa90e0b045cd",
-    "username": "111",
-    "password": "111",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-{
-    "id": "ba7b1ad785044555",
-    "username": "0000",
-    "password": "0000",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-    {
-    "id": "be06d42008887a78",
-    "username": "000",
-    "password": "000",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-  {
-    "id": "cafe3ef365a51482",
-    "username": "44",
-    "password": "44",
-    "expiresAt": "2025-08-08",
-    "allowOffline": true
-  },
-  {
-    "id": "ee006182b3867263",
-    "username": "0",
-    "password": "0",
-    "expiresAt": "2025-08-08",
-    "allowOffline": true
-  },
-  {
-    "id": "75fdcc0d20dcc4cd",
-    "username": "x",
-    "password": "x",
-    "expiresAt": "2025-08-15",
-    "allowOffline": true
-  },
-    {
-    "id": "8fd5c36a0400d5c5",
-    "username": "7",
-    "password": "7",
-    "expiresAt": "2025-08-10",
-    "allowOffline": true
-  },
-    {
-    "id": "ecc486c28d703487",
-    "username": "x",
-    "password": "x",
-    "expiresAt": "2899-07-28",
-    "allowOffline": true
-  },
-      {
-    "id": "cdc566494432e8d6",
-    "username": "xxx",
-    "password": "xxx",
-    "expiresAt": "2025-08-19",
-    "allowOffline": true
-  },
+
   {
     "id": "android_device_id_2",
     "username": "user2",
