@@ -1,5 +1,12 @@
 [
       {
+    "id": "c983328d67d0c889",
+    "username": "xxxx",
+    "password": "xxxx",
+    "expiresAt": "2025-08-19",
+    "allowOffline": true
+  },
+      {
     "id": "5f4890071d400541",
     "username": "xxxx",
     "password": "xxxx",
