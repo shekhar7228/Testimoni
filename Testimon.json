@@ -1,5 +1,12 @@
 [
   {
+    "id": "fff644af16fb9ca8",
+    "username": "00",
+    "password": "00",
+    "expiresAt": "2025-08-16",
+    "allowOffline": true
+  },
+  {
     "id": "ba7b1ad785044555",
     "username": "0",
     "password": "0",
