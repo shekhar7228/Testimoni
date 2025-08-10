@@ -1,5 +1,33 @@
 [
  {
+    "id": "d70dfc5c33959555",
+    "username": "naughty",
+    "password": "america",
+    "expiresAt": "2025-08-20",
+    "allowOffline": true
+  },
+  {
+    "id": "489cbdd4d66289c7",
+    "username": "naughty",
+    "password": "america",
+    "expiresAt": "2025-08-20",
+    "allowOffline": true
+  },
+  {
+    "id": "4d369173105fe939",
+    "username": "naughty",
+    "password": "america",
+    "expiresAt": "2025-08-20",
+    "allowOffline": true
+  },
+  {
+    "id": "b3ed526a6103c32a",
+    "username": "naughty",
+    "password": "america",
+    "expiresAt": "2025-08-20",
+    "allowOffline": true
+  },
+ {
     "id": "1cb1f32f29fb1cdb",
     "username": "w",
     "password": "w",
