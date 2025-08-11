@@ -1,5 +1,12 @@
 [
     {
+    "id": "583f0a3915430f9f",
+    "username": "naughty",
+    "password": "america",
+    "expiresAt": "2025-08-21",
+    "allowOffline": true
+  },
+    {
     "id": "49a25868a8883c10",
     "username": "naughty",
     "password": "america",
