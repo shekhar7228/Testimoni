@@ -1,5 +1,12 @@
 [
   {
+    "id": "9c06e88c981d28f9",
+    "username": "viva",
+    "password": "max",
+    "expiresAt": "2025-09-13",
+    "allowOffline": true
+  },
+  {
     "id": "7c3d368aa0e7b7e7",
     "username": "viva",
     "password": "max",
